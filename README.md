@@ -1,9 +1,9 @@
 ## Hi there 👋
-Targeting entry-level/junior data roles. Proficient in Excel, SQL (Postgres, BigQuery), Tableau, Looker Studio, and Python (NumPy, Pandas).
+Targeting entry-level/junior data analyst/specialist/engineer roles. Proficient in Excel, SQL (Postgres, BigQuery), Tableau, Looker Studio, and Python (NumPy, Pandas).
 Contact Info:
-  Linkedin:
-  Email: kurtjakut@gmail.com
-  Resume:
+&emsp;Linkedin:
+&emsp;Email: kurtjakut@gmail.com
+&emsp;Resume:
 <!--
 **kurtjakut/kurtjakut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
